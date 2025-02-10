@@ -115,11 +115,11 @@ Me chamo Pedro Henrique de Melo Albuquerque, tenho 23 anos e sou natural de Reci
     />
   
   <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    style="margin-left: 15px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHMA-PEDRO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+      align="left" 
+      alt="Top Langs" 
+      height="200" 
+      style="margin-left: 15px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHMA-PEDRO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=100" 
+    />
 </p>
 
