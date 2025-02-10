@@ -110,16 +110,16 @@ Me chamo Pedro Henrique de Melo Albuquerque, tenho 23 anos e sou natural de Reci
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="margin-right: 15px;" 
     src="https://github-readme-stats.vercel.app/api?username=PHMA-PEDRO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHMA-PEDRO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    style="margin-left: 15px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHMA-PEDRO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
