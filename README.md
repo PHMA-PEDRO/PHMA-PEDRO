@@ -1,6 +1,6 @@
 # 👨‍💻 Pedro Albuquerque
 
-**`Desenvolvedora FullStack`**
+**`Analista de Dados`**
 
 Me chamo Pedro Henrique de Melo Albuquerque, tenho 23 anos e sou natural de Recife. Concluí o ensino médio no Colégio da Imaculada Conceição e sou técnico em Química pelo IFPE. Atualmente, curso Engenharia Biomédica na UFPE e tenho grande interesse por tecnologia e inovação. Busco constantemente aprimorar minhas habilidades em lógica de programação somado a analise da dados com bancos de dados, utilizando metodologias ágeis. Meu objetivo é desenvolver soluções práticas e inovadoras que impulsionem a melhoria contínua de processos e tecnologias.
 
